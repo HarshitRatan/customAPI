@@ -1,14 +1,17 @@
 {
-  "User": [
+  "posts": [
     {
-    "id" : "1",
-    "name": "ratan",
-    "mobileNumber": "123456"
+      "id": 1,
+      "name": "Rohit",
+      "mobileNumber": "1234567890"
     },
     {
-    "id" : "2",
-    "name": "ratan",
-    "mobileNumber": "123456"
-    }  
-  ]
+      "id": 2,
+      "name": "Sumit",
+      "mobileNumber": "5234567890"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
