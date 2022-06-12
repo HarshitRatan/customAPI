@@ -1,7 +1,11 @@
 {
-  {
-  "id": "1",
-   "name": "Sumit",
-   "mobileNumber": "123456789"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
