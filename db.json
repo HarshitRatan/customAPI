@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "User": [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "id" : "1",
+    "name": "ratan",
+    "mobileNumber": "123456"
+    },
+    {
+    "id" : "1",
+    "name": "ratan",
+    "mobileNumber": "123456"
+    }  
+  ]
 }
